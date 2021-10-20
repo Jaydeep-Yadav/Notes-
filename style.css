@@ -209,3 +209,8 @@ button:hover .button-text {
       color:#f1c40f;
       margin-left: 10px;
   }
+ @media (max-width: 1028px) {
+      #footer{
+        display: none;
+      }
+  }
